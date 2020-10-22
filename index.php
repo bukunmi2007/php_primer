@@ -33,7 +33,9 @@
         echo "<h1> My name is: $name </h>";
 
     ?>
-
+    </br>
+    <button type="button" class="btn btn-primary"> Click </button>
+    <button type="button" class="btn btn-success"> Click </button>
     <button type="button" class="btn btn-info"> Click </button>
 
  <?php require 'includes/footer.php' ?>
